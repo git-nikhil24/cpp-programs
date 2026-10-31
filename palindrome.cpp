@@ -15,7 +15,10 @@ int main(){
 
     }
     if(original == reverse)
-    {
-      
-    }
+      cout<<"Palindrome Number";
+      else 
+      cout<<"Not Palindrome Number";
+
+      return 0;
+    
 }
